@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-image: url(av\ pics/av.jpg);
+    background-size: cover;
+
+}
+h1{
+    background-color: goldenrod;
+    border: 10px solid rgb(43, 30, 56);
+   
+}
+h2{
+    color: whitesmoke;
+    text-shadow: 2px 2px 5px red;
+}
